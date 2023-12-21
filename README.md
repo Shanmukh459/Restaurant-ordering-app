@@ -1,4 +1,4 @@
-# Restaurant Ordering app
+# Restaurant Ordering app 🍕🍽️
 
 - As the name suggests, this is an ordering app.
 - This is designed a mobile application as most of the ordering apps are used on handsets
@@ -8,17 +8,17 @@
   - Payment: Once the user is ready with the cart he/she can proceed to play which is a dialog box appearing on the menu screen
   - Order confirmation: Once the user provides the payment information the cart will be dissappered and a order confirmation message is displayed
 
-## Tech used
+## Tech used ⚙️
 
 - JavaScript
 - HTML
 - CSS
 
-## Deployed at
+## Deployed at ☁️
 
 - https://shanmukh-restaurant-ordering-app.vercel.app/
 
-## Screenshots of the application
+## Screenshots of the application 📷
 
 - Menu Screen
 
@@ -37,4 +37,4 @@
 ![image](https://github.com/Shanmukh459/Restaurant-ordering-app/assets/52078988/9d921796-b149-49ca-a08e-2791e073544b)
 
 
-Happy Coding!
+Happy Coding! 😎🤓
